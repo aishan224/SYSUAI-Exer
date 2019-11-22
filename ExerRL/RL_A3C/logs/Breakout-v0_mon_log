@@ -1,0 +1,22 @@
+2019-11-20 22:58:30,764 : env: Breakout-v0
+2019-11-20 22:58:30,764 : env_config: config.json
+2019-11-20 22:58:30,764 : num_episodes: 10
+2019-11-20 22:58:30,764 : load_model_dir: trained_models/
+2019-11-20 22:58:30,764 : log_dir: logs/
+2019-11-20 22:58:30,764 : render: True
+2019-11-20 22:58:30,764 : render_freq: 1
+2019-11-20 22:58:30,764 : max_episode_length: 10000
+2019-11-20 22:58:30,764 : gpu_id: 0
+2019-11-20 22:58:30,764 : skip_rate: 4
+2019-11-20 22:58:30,764 : seed: 1
+2019-11-20 22:58:30,764 : new_gym_eval: False
+2019-11-20 22:58:55,798 : Time used-> [00h 00m 24s], reward of this episode-> [367.0], episode length-> [2730], average reward-> [367.0000]
+2019-11-20 22:59:15,735 : Time used-> [00h 00m 44s], reward of this episode-> [384.0], episode length-> [2814], average reward-> [375.5000]
+2019-11-20 22:59:54,850 : Time used-> [00h 01m 23s], reward of this episode-> [487.0], episode length-> [5532], average reward-> [412.6667]
+2019-11-20 23:00:32,601 : Time used-> [00h 02m 01s], reward of this episode-> [769.0], episode length-> [5529], average reward-> [501.7500]
+2019-11-20 23:00:58,177 : Time used-> [00h 02m 27s], reward of this episode-> [428.0], episode length-> [3748], average reward-> [487.0000]
+2019-11-20 23:01:21,585 : Time used-> [00h 02m 50s], reward of this episode-> [328.0], episode length-> [3284], average reward-> [460.5000]
+2019-11-20 23:01:51,748 : Time used-> [00h 03m 20s], reward of this episode-> [435.0], episode length-> [4222], average reward-> [456.8571]
+2019-11-20 23:03:08,278 : Time used-> [00h 04m 37s], reward of this episode-> [0.0], episode length-> [10000], average reward-> [399.7500]
+2019-11-20 23:03:51,779 : Time used-> [00h 05m 20s], reward of this episode-> [407.0], episode length-> [5344], average reward-> [400.5556]
+2019-11-20 23:04:17,274 : Time used-> [00h 05m 46s], reward of this episode-> [393.0], episode length-> [3146], average reward-> [399.8000]
